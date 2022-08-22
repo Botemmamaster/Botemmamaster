@@ -54,7 +54,7 @@ Discuss Hyper Bot on Discord https://discord.gg/8m3Muay .
   
 Post issues on GitHub https://github.com/hyperchessbot/hyperbot/issues .
 ## Config vars
-**USE_STOCKFISH_13** : set it to 'true' to use Stockfish 13 ( Heroku / Linux only )  
+**USE_STOCKFISH_15** : set it to 'true' to use Stockfish 15 ( Heroku / Linux only )  
   
 **DISABLE_LOGS** : set it to 'true' to disable logs, when true, logs, position and evaluation will not be shown on home page  
   
